@@ -10,4 +10,4 @@ resolvers := Seq(
 addSbtPlugin("play" % "sbt-plugin" % "2.0.8")
 
 // Visualize all dependencies of this project
-addSbtPlugin("net.virtual-void" % "sbt-dependency-graph" % "0.8.0")
+addSbtPlugin("net.virtual-void" % "sbt-dependency-graph" % "0.7.4")
